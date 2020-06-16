@@ -4,7 +4,7 @@ Template repo for rapid deployment of a React toolchain from scratch. Built to a
 
 # Usage
 
-Simply fork or click the 'Use this template' button on GitHub to create your won repo.
+Simply fork or click the 'Use this template' button on GitHub to create your own repo.
 
 You will need node package manager. Check you have it installed with the following:
 ```
